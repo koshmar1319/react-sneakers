@@ -1,3 +1,1 @@
 # React Sneakers
-
-### some changes
